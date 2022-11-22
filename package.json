@@ -1,0 +1,22 @@
+{
+  "name": "dropbox-redesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgarcia1724/Dropbox-Redesign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgarcia1724/Dropbox-Redesign/issues"
+  },
+  "homepage": "https://github.com/dgarcia1724/Dropbox-Redesign#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
